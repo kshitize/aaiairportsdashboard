@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"coimbatore",
+        "image":"./images/coimbatore.webp",
+        "dateofupdation":"22.08.2023",
+        "link":"coimbatoreAirport"
+    },
+    {
+        "id":2,
+        "name":"agartala",
+        "image":"./images/agartala.webp",
+        "dateofupdation":"23.08.2023",
+        "link":"agartalaAirport"
+    },
+    {
+        "id":3,
+        "name":"chennai",
+        "image":"./images/chennai.jpeg",
+        "dateofupdation":"24.08.2023",
+        "link":"chennaiAirport"
+    }
+]
